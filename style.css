@@ -1,0 +1,14 @@
+/* form {
+    text-align: center;
+} */
+
+.get-quotes {
+    width: 100%;
+}
+
+#quotes {
+    padding: 20px;
+    border: 1px solid #bbb;
+    border-radius: 4px;
+
+}
